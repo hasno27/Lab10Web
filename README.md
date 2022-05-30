@@ -79,8 +79,9 @@ About
 ## TUGAS
 ### Implementasikan konsep modularisasi pada kode program `praktikum 8` tentang database, sehingga setiap halamannya memiliki template tampilan yang sama.
 
-## TUGAS
-### Implementasikan konsep modularisasi pada kode program `praktikum 8` tentang database, sehingga setiap halamannya memiliki template tampilan yang sama.
+## LANGKAH 1
+### Buat file `lab9_tugas` pada root directory web server `(d:\xampp\htdocs)`
+![TUGAS 1](https://user-images.githubusercontent.com/22215113/120470563-e0133800-c3cd-11eb-9fc9-682524df9499.png)
 
 ## LANGKAH 2
 ### Buat file baru dengan nama `koneksi.php` pada folder `(d:\xampp\htdocs\lab9_tugas)`
